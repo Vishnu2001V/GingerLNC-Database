@@ -1,5 +1,5 @@
 # GingerLNC-Database
-[![Database](https://img.shields.io/badge/Database-GingerLnc-green)](https://your-database-url.com)
+[![Database](https://img.shields.io/badge/Database-GingerLnc-green)](http://14.139.189.22/GingerLnc/)
 
 GingerLnc is a specialized database of long non-coding RNAs (lncRNAs) identified in ginger (Zingiber officinale). The database provides a centralized platform for accessing high-confidence lncRNA sequences generated through a rigorous RNA-seq analysis pipeline.
 
